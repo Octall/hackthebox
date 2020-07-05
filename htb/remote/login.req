@@ -1,0 +1,16 @@
+POST /umbraco/backoffice/UmbracoApi/Authentication/PostLogin HTTP/1.1
+Host: 10.10.10.180
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json;charset=utf-8
+X-UMB-XSRF-TOKEN: N2tlfUQdxKq8UplIkdkMDNzLvIb7aeQdhJF8jBTe5-HEg2FIMJ-BDPue-iONc1BV4PlbF8AH1H1cXniLk9dUwvhvZQgXcAUQGv6AbQjM2Ys1
+Content-Length: 39
+Origin: http://10.10.10.180
+DNT: 1
+Connection: close
+Referer: http://10.10.10.180/umbraco/
+Cookie: UMB-XSRF-TOKEN=N2tlfUQdxKq8UplIkdkMDNzLvIb7aeQdhJF8jBTe5-HEg2FIMJ-BDPue-iONc1BV4PlbF8AH1H1cXniLk9dUwvhvZQgXcAUQGv6AbQjM2Ys1; UMB-XSRF-V=XVITDz-uT_E7aqAZZ28MFsDG1O9mRJ2EJhuGu54KX6i_W7ZP2We6y2eb2B3bI5nnd6ONVLsd2-VT22U0ARO8--8hVkB8diw763kZ0MYkhmc1
+
+{"username":"admin","password":"admin"}

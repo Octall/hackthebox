@@ -1,0 +1,14 @@
+# SQL Info
+# Found in index.php
+
+			$servername = "localhost";
+                        $username = "waldo";
+                        $password = "]F7jLHw:*G>UPrTo}~A"d6b";
+                        $dbname = "admirerdb";
+
+-----------------------------------------------------------------------------------------------
+
+# SQL Client PHP
+
+/utility-scripts/adminer.php
+
